@@ -1,5 +1,4 @@
 **English | [简体中文](#简介)**
-**可能是全网最全的教程**
 
 # Vue3 Cesium Typescipt Start up template
 
